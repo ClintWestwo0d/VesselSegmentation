@@ -1,2 +1,0 @@
-epoch,train_loss,val_auc_roc,val_f1,val_acc,SE,SP
-1,0.201685,0.970767,0.800567,0.948991,0.804329,0.97009
