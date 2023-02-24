@@ -1,0 +1,3 @@
+The computing device used is:  GPU
+Total number of parameters: 5036546
+[0;33mload data from /home/pixel/cly/remote_workspace/vessel2/prepare_dataset/data_path_list/DRIVE/train.txt [0m
