@@ -1,5 +1,7 @@
-# a vessel segmentation project
+# A Vessel Segmentation Project
 
+including various of segmentation models
+it's a beginner's graduation design
 
 # Citation
 
