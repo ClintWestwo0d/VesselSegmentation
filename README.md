@@ -1,7 +1,10 @@
 # A Vessel Segmentation Project
 
 including various of segmentation models
+
 it's a beginner's graduation design
+
+The mainly project structure is https://github.com/lee-zq/VesselSeg-Pytorch
 
 # Citation
 
