@@ -129,7 +129,9 @@ if __name__ == '__main__':
     # net = models.U_Net_ODConv(1, 2).to(device)
     # net = models.U_Net_DR(1, 2).to(device)
     # net = models.U_Net_CondConv(1, 2).to(device)
-    net = models.U_Net_DeformConv(1,2).to(device)
+    # net = models.U_Net_DeformConv(1,2).to(device)
+
+    net = models.UNet_extract_part_PVF_DPR(1, 2).to(device)
 
     # net = models.UNetFamily.AttU_Net(1,2).to(device)
     # net = models.Self_att_gate_UNet.AttU_Net(1,2).to(device)

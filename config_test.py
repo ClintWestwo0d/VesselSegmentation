@@ -11,7 +11,9 @@ def parse_args():
     # parser.add_argument('--save', default='UNet_ODConv', help='save name of experiment in args.outf directory')
     # parser.add_argument('--save', default='UNet_DR', help='save name of experiment in args.outf directory')
     # parser.add_argument('--save', default='UNet_CondConv', help='save name of experiment in args.outf directory')
-    parser.add_argument('--save', default='UNet_DeformConv', help='save name of experiment in args.outf directory')
+    # parser.add_argument('--save', default='UNet_DeformConv', help='save name of experiment in args.outf directory')
+
+    parser.add_argument('--save', default='UNet_extract_part_PVF_DPR', help='save name of experiment in args.outf directory')
 
     # parser.add_argument('--save', default='My_net', help='save name of experiment in args.outf directory')
     # parser.add_argument('--save', default='CCNet_drive', help='save name of experiment in args.outf directory')
